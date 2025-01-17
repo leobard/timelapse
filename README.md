@@ -2,7 +2,8 @@
 
 This is a description how I shot 389172 photos over the course of 518 days with a Canon 600D and created this 26 minute time-lapse video:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L0RZmodfvx4?si=JV90Yugp-1pFkZyy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+[![time-lapse on youtube](timelapse-youtube-screenshot-t2021-07-27.jpg)](https://www.youtube.com/watch?v=L0RZmodfvx4)
+[YouTube: 26 minute time-lapse video of our 16 months roof renovation](https://www.youtube.com/watch?v=L0RZmodfvx4)
 
 More about the project in this blog-post: [Watch this 26 minute time-lapse video of our 16 months roof renovation project made from 389172 photos](https://www.leobard.net/blog/2025/01/12/watch-this-26-minute-time-lapse-video-of-our-16-months-roof-renovation-project-made-from-389172-photos/)
 
@@ -415,7 +416,7 @@ Combine video and subtitles
 
 Whoop Whoop, you are done.
 
-<iframe src="https://giphy.com/embed/zcCGBRQshGdt6" width="480" height="307" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/reaction-office-space-that-was-easy-zcCGBRQshGdt6">via GIPHY</a></p>
+![](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjVmbXgzd2JubGN1Mm82MHMzanZhd3lzZHA0MHd1cWt2bjVoNHdiZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zcCGBRQshGdt6/giphy.gif)
 
 > [!NOTE]
 >
